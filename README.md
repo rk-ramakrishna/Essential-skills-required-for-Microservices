@@ -8,3 +8,10 @@ https://medium.datadriveninvestor.com/ten-signs-you-dont-understand-this-microse
 
 Refactoring the persistence layer is the most critical part when splitting a monolith into microservices. Lets see you how to do it.
 https://thorben-janssen.com/monolith-to-microservices-persistence-layer/?utm_source=social&utm_medium=twitter&utm_campaign=tutorial
+
+
+common shared code for Microservices
+
+A question most of the people asked is if there can be common code between services. The answer is a qualified 'Yes'. The bottom line is that you version common code and treat it the same way as you treat third-party products like Hibernate or Apache commons Lang. Individual services decide when/if to upgrade. 
+
+Changes or enhancemnets to common code cannot force deplyments of multiple services. Finally Common code should be versioned just like any third-party library you use. 
