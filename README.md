@@ -15,3 +15,11 @@ common shared code for Microservices
 A question most of the people asked is if there can be common code between services. The answer is a qualified 'Yes'. The bottom line is that you version common code and treat it the same way as you treat third-party products like Hibernate or Apache commons Lang. Individual services decide when/if to upgrade. 
 
 Changes or enhancemnets to common code cannot force deplyments of multiple services. Finally Common code should be versioned just like any third-party library you use. 
+
+
+
+Below is nice article about How can application would be microservice
+
+https://tanzu.vmware.com/content/blog/should-that-be-a-microservice-keep-these-six-factors-in-mind
+
+
