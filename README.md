@@ -23,3 +23,8 @@ Below is nice article about How can application would be microservice
 https://tanzu.vmware.com/content/blog/should-that-be-a-microservice-keep-these-six-factors-in-mind
 
 
+Mind-mapping Microservices Design Patterns  [It's very very impressive article about microservices. All patterns of microservices in one diagram]
+https://medium.com/@mail.ruchitayal/mind-mapping-microservices-design-patterns-dd1cfdba8dae
+
+Mind-mapping Micro-services Design Patterns — Part 2
+https://medium.com/@mail.ruchitayal/mind-mapping-micro-services-design-patterns-part-2-c3f875e97f2f
